@@ -1,0 +1,167 @@
+[
+  {
+    "password": "feffwdwwd",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe1@example.com",
+    "phone_number": "9876543210",
+    "role": "PATIENT",
+    "id": "f7cbc858-a8b3-4792-916e-8055a4b6bf0e",
+    "created_at": "2025-06-17T09:00:00Z",
+    "updated_at": "2025-06-17T09:00:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "phone_number": "9876543211",
+    "role": "DOCTOR",
+    "id": "5223e289-2ed6-4f2b-86b1-c2b707e67cce",
+    "created_at": "2025-06-17T09:05:00Z",
+    "updated_at": "2025-06-17T09:05:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "Alice",
+    "last_name": "Brown",
+    "email": "alice.brown@example.com",
+    "phone_number": "9876543212",
+    "role": "PATIENT",
+    "id": "3f28dea1-8d3a-4552-b449-bffa5a64ffde",
+    "created_at": "2025-06-17T09:10:00Z",
+    "updated_at": "2025-06-17T09:10:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "Drake",
+    "last_name": "Morris",
+    "email": "drake.morris@example.com",
+    "phone_number": "9876543213",
+    "role": "DOCTOR",
+    "id": "a10b4996-b55a-497b-bf58-1093129fc3e5",
+    "created_at": "2025-06-17T09:15:00Z",
+    "updated_at": "2025-06-17T09:15:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "Eva",
+    "last_name": "Green",
+    "email": "eva.green@example.com",
+    "phone_number": "9876543214",
+    "role": "PATIENT",
+    "id": "e2bf8bc9-92a6-4d69-af3b-1eb89b77eb18",
+    "created_at": "2025-06-17T09:20:00Z",
+    "updated_at": "2025-06-17T09:20:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "Tom",
+    "last_name": "Hardy",
+    "email": "tom.hardy@example.com",
+    "phone_number": "9876543215",
+    "role": "DOCTOR",
+    "id": "0259583e-1a5a-4194-957f-a157a76c929c",
+    "created_at": "2025-06-17T09:25:00Z",
+    "updated_at": "2025-06-17T09:25:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "Olivia",
+    "last_name": "Jones",
+    "email": "olivia.jones@example.com",
+    "phone_number": "9876543216",
+    "role": "PATIENT",
+    "id": "8044da3f-42bf-49e8-86d6-732b7e9abeb5",
+    "created_at": "2025-06-17T09:30:00Z",
+    "updated_at": "2025-06-17T09:30:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "William",
+    "last_name": "King",
+    "email": "william.king@example.com",
+    "phone_number": "9876543217",
+    "role": "DOCTOR",
+    "id": "b388b354-b82e-448b-914e-f3a71093c701",
+    "created_at": "2025-06-17T09:35:00Z",
+    "updated_at": "2025-06-17T09:35:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "Sophia",
+    "last_name": "Turner",
+    "email": "sophia.turner@example.com",
+    "phone_number": "9876543218",
+    "role": "PATIENT",
+    "id": "b5e691f9-0e0f-4618-ae21-f9414c00a4b1",
+    "created_at": "2025-06-17T09:40:00Z",
+    "updated_at": "2025-06-17T09:40:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "Robert",
+    "last_name": "White",
+    "email": "robert.white@example.com",
+    "phone_number": "9876543219",
+    "role": "DOCTOR",
+    "id": "fa68f983-62a1-475f-970f-77c57145fa3b",
+    "created_at": "2025-06-17T09:45:00Z",
+    "updated_at": "2025-06-17T09:45:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "Emma",
+    "last_name": "Walker",
+    "email": "emma.walker@example.com",
+    "phone_number": "9876543220",
+    "role": "PATIENT",
+    "id": "eb7716e0-7a11-4724-9821-6301506c4a63",
+    "created_at": "2025-06-17T09:50:00Z",
+    "updated_at": "2025-06-17T09:50:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "David",
+    "last_name": "Young",
+    "email": "david.young@example.com",
+    "phone_number": "9876543221",
+    "role": "DOCTOR",
+    "id": "ed3d5198-5265-42aa-9f70-2695d2ad9309",
+    "created_at": "2025-06-17T09:55:00Z",
+    "updated_at": "2025-06-17T09:55:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "Lily",
+    "last_name": "Scott",
+    "email": "lily.scott@example.com",
+    "phone_number": "9876543222",
+    "role": "PATIENT",
+    "id": "3176d967-14ff-48c3-9738-cea6b4572aee",
+    "created_at": "2025-06-17T10:00:00Z",
+    "updated_at": "2025-06-17T10:00:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "Henry",
+    "last_name": "Baker",
+    "email": "henry.baker@example.com",
+    "phone_number": "9876543223",
+    "role": "DOCTOR",
+    "id": "ad35a0aa-30a1-4cdd-a03c-790d166ce66f",
+    "created_at": "2025-06-17T10:05:00Z",
+    "updated_at": "2025-06-17T10:05:00Z"
+  },
+  {
+    "password": "feffwdwwd",
+    "first_name": "Chloe",
+    "last_name": "Adams",
+    "email": "chloe.adams@example.com",
+    "phone_number": "9876543224",
+    "role": "PATIENT",
+    "id": "3e256b37-0cd7-482d-9d3f-639a7adaf051",
+    "created_at": "2025-06-17T10:10:00Z",
+    "updated_at": "2025-06-17T10:10:00Z"
+  }
+]

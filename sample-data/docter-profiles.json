@@ -1,0 +1,72 @@
+[
+  {
+    "id": "bb15b848-993b-4dc1-8b1e-71921771cd5b",
+    "user_id": "5223e289-2ed6-4f2b-86b1-c2b707e67cce",
+    "specialization": "Cardiology",
+    "available_from": "09:00",
+    "available_to": "17:00",
+    "slotDuration_in_minutes": 30,
+    "created_at": "2025-06-17T09:05:00Z",
+    "updated_at": "2025-06-17T09:05:00Z"
+  },
+  {
+    "id": "1ac32870-650b-4885-bee7-61f5ed10efb2",
+    "user_id": "a10b4996-b55a-497b-bf58-1093129fc3e5",
+    "specialization": "Dermatology",
+    "available_from": "09:00",
+    "available_to": "17:00",
+    "slotDuration_in_minutes": 30,
+    "created_at": "2025-06-17T09:15:00Z",
+    "updated_at": "2025-06-17T09:15:00Z"
+  },
+  {
+    "id": "4d63fc66-adc5-4f3f-b7b7-7dc35f37ead1",
+    "user_id": "0259583e-1a5a-4194-957f-a157a76c929c",
+    "specialization": "Orthopedics",
+    "available_from": "09:00",
+    "available_to": "17:00",
+    "slotDuration_in_minutes": 30,
+    "created_at": "2025-06-17T09:25:00Z",
+    "updated_at": "2025-06-17T09:25:00Z"
+  },
+  {
+    "id": "14f2bae7-74f0-4561-931b-58da0499eebb",
+    "user_id": "b388b354-b82e-448b-914e-f3a71093c701",
+    "specialization": "Neurology",
+    "available_from": "09:00",
+    "available_to": "17:00",
+    "slotDuration_in_minutes": 30,
+    "created_at": "2025-06-17T09:35:00Z",
+    "updated_at": "2025-06-17T09:35:00Z"
+  },
+  {
+    "id": "6db8fccc-734d-4958-aa48-66db1cdc420b",
+    "user_id": "fa68f983-62a1-475f-970f-77c57145fa3b",
+    "specialization": "Pediatrics",
+    "available_from": "09:00",
+    "available_to": "17:00",
+    "slotDuration_in_minutes": 30,
+    "created_at": "2025-06-17T09:45:00Z",
+    "updated_at": "2025-06-17T09:45:00Z"
+  },
+  {
+    "id": "5aecae0f-1439-4b59-8a66-a70e4d12d2c7",
+    "user_id": "ed3d5198-5265-42aa-9f70-2695d2ad9309",
+    "specialization": "Cardiology",
+    "available_from": "09:00",
+    "available_to": "17:00",
+    "slotDuration_in_minutes": 30,
+    "created_at": "2025-06-17T09:55:00Z",
+    "updated_at": "2025-06-17T09:55:00Z"
+  },
+  {
+    "id": "a5813e8d-d47a-40af-adb8-4046b195efdc",
+    "user_id": "ad35a0aa-30a1-4cdd-a03c-790d166ce66f",
+    "specialization": "Dermatology",
+    "available_from": "09:00",
+    "available_to": "17:00",
+    "slotDuration_in_minutes": 30,
+    "created_at": "2025-06-17T10:05:00Z",
+    "updated_at": "2025-06-17T10:05:00Z"
+  }
+]

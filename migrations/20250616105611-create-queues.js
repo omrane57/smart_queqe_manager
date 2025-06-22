@@ -9,7 +9,7 @@ module.exports = {
         type: Sequelize.UUID,
       },
       position: {
-        type: Sequelize.NUMBER,
+        type: Sequelize.INTEGER,
       },
       status: {
         type: Sequelize.STRING,

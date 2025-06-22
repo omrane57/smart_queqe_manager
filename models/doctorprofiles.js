@@ -23,9 +23,9 @@ module.exports = (sequelize, DataTypes) => {
   DoctorProfiles.init(
     {
       specialization: DataTypes.STRING,
-      availableFrom: DataTypes.DATE,
-      availableTo: DataTypes.DATE,
-      slotDurationInMinutes: DataTypes.NUMBER,
+      availableFrom: DataTypes.TIME,
+      availableTo: DataTypes.TIME,
+      slotDurationInMinutes: DataTypes.INTEGER,
       userId: DataTypes.UUID,
     },
     {

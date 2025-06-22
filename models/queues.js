@@ -28,7 +28,7 @@ module.exports = (sequelize, DataTypes) => {
   }
   Queue.init(
     {
-      position: DataTypes.NUMBER,
+      position: DataTypes.INTEGER,
       status: DataTypes.STRING,
       status: DataTypes.STRING,
       actualStartTime: DataTypes.DATE,

@@ -12,16 +12,16 @@ module.exports = {
         type: Sequelize.STRING,
       },
       available_from: {
-        type: Sequelize.DATE,
+        type: Sequelize.TIME,
       },
       available_to: {
-        type: Sequelize.DATE,
+        type: Sequelize.TIME,
       },
       slotDuration_in_minutes: {
-        type: Sequelize.NUMBER,
+        type: Sequelize.INTEGER,
       },
       user_id: {
-        type: Sequelize,
+        type: Sequelize.UUID,
         references: {
           model: "Users",
           key: "id",
