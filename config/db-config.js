@@ -1,5 +1,9 @@
 const env = process.env.NODE_ENV || "local";
-if (env === "local") require("dotenv").config({ path: "./.env" });
+require("dotenv").config(); // ✅ Load environment variables from API repo's .env
+
+const express = require("express");
+const app = express();
+// ... your other bootstrapping code
 
 const Sequelize = require("sequelize");
 const SECOND = 1000;
