@@ -30,7 +30,6 @@ module.exports = (sequelize, DataTypes) => {
     {
       position: DataTypes.INTEGER,
       status: DataTypes.STRING,
-      status: DataTypes.STRING,
       actualStartTime: DataTypes.DATE,
       actualEndTime: DataTypes.DATE,
       appointmentId: DataTypes.UUID,
