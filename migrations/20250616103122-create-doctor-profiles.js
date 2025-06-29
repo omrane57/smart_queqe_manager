@@ -17,7 +17,7 @@ module.exports = {
       available_to: {
         type: Sequelize.TIME,
       },
-      slotDuration_in_minutes: {
+      slot_duration_in_minutes: {
         type: Sequelize.INTEGER,
       },
       user_id: {
