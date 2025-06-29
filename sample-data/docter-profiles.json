@@ -5,7 +5,7 @@
     "specialization": "Cardiology",
     "available_from": "09:00",
     "available_to": "17:00",
-    "slotDuration_in_minutes": 30,
+    "slot_duration_in_minutes": 30,
     "created_at": "2025-06-17T09:05:00Z",
     "updated_at": "2025-06-17T09:05:00Z"
   },
@@ -15,7 +15,7 @@
     "specialization": "Dermatology",
     "available_from": "09:00",
     "available_to": "17:00",
-    "slotDuration_in_minutes": 30,
+    "slot_duration_in_minutes": 30,
     "created_at": "2025-06-17T09:15:00Z",
     "updated_at": "2025-06-17T09:15:00Z"
   },
@@ -25,7 +25,7 @@
     "specialization": "Orthopedics",
     "available_from": "09:00",
     "available_to": "17:00",
-    "slotDuration_in_minutes": 30,
+    "slot_duration_in_minutes": 30,
     "created_at": "2025-06-17T09:25:00Z",
     "updated_at": "2025-06-17T09:25:00Z"
   },
@@ -35,7 +35,7 @@
     "specialization": "Neurology",
     "available_from": "09:00",
     "available_to": "17:00",
-    "slotDuration_in_minutes": 30,
+    "slot_duration_in_minutes": 30,
     "created_at": "2025-06-17T09:35:00Z",
     "updated_at": "2025-06-17T09:35:00Z"
   },
@@ -45,7 +45,7 @@
     "specialization": "Pediatrics",
     "available_from": "09:00",
     "available_to": "17:00",
-    "slotDuration_in_minutes": 30,
+    "slot_duration_in_minutes": 30,
     "created_at": "2025-06-17T09:45:00Z",
     "updated_at": "2025-06-17T09:45:00Z"
   },
@@ -55,7 +55,7 @@
     "specialization": "Cardiology",
     "available_from": "09:00",
     "available_to": "17:00",
-    "slotDuration_in_minutes": 30,
+    "slot_duration_in_minutes": 30,
     "created_at": "2025-06-17T09:55:00Z",
     "updated_at": "2025-06-17T09:55:00Z"
   },
@@ -65,7 +65,7 @@
     "specialization": "Dermatology",
     "available_from": "09:00",
     "available_to": "17:00",
-    "slotDuration_in_minutes": 30,
+    "slot_duration_in_minutes": 30,
     "created_at": "2025-06-17T10:05:00Z",
     "updated_at": "2025-06-17T10:05:00Z"
   }
