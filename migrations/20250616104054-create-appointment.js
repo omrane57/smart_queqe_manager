@@ -8,11 +8,11 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.UUID,
       },
-      appointmentDate: {
+      appointment_date: {
         type: Sequelize.DATEONLY,
         allowNull: false,
       },
-      appointmentTime: {
+      appointment_time: {
         type: Sequelize.TIME,
         allowNull: false,
       },
