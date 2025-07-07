@@ -20,6 +20,10 @@ module.exports = {
       actual_end_time: {
         type: Sequelize.DATE,
       },
+      appointment_date: {
+        type: Sequelize.DATEONLY,
+        allowNull: false,
+      },
       appointment_id: {
         type: Sequelize.UUID,
         references: {

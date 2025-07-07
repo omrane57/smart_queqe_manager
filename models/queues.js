@@ -34,6 +34,7 @@ module.exports = (sequelize, DataTypes) => {
       actualEndTime: DataTypes.DATE,
       appointmentId: DataTypes.UUID,
       doctorId: DataTypes.UUID,
+      appointmentDate: DataTypes.DATEONLY,
     },
     {
       sequelize,
